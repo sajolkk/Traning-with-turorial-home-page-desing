@@ -1,0 +1,143 @@
+*{margin:0; padding:0; outline:0;}
+body{font-family:arial;font-size:14px; line-height:14px;color:black;}
+.template{
+	width:960px; margin:0 auto;
+}
+.clear{
+	overflow:hidden;
+}
+.header_section{
+	height:; background:#B5811C; color: #fff;
+}
+.logo {
+	float: left;
+	width: 550px;
+}
+.logo img {
+	float: left;
+	padding: 10px 20px;
+	width: 70px;
+}
+.logo h2 {
+	font-size: 35px;
+	padding-top: 30px;
+	margin-bottom: 10px;
+	text-shadow: 2px 3px 0px #666;
+}
+.logo p{}
+.social {
+	float: right;
+	width: 260px;
+	padding-top: 18px;
+}
+.social a{}
+.social img {
+	width: 60px;
+}
+.nav_section{
+	background:#E4B04C;
+}
+.nav_section{}
+.nav_section ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.nav_section ul li {
+	display: block;
+	float: left;
+}
+.nav_section ul li a {
+	display: block;
+	padding: 11px 15px;
+	background: #CB9750 none repeat 0 0;
+	text-decoration: none;
+	margin: 5px;
+	font-size: 20px;
+	color: #444;
+	border:1px solid #B5811C;
+}
+.nav_section ul li a:hover{
+	background:#2F2D2E; color:#fff;
+	}
+
+.contant_section{
+	background:#fff;
+	}
+.main_contant {
+	width: 630px;
+	background: #FBF4E4;
+	float: left;
+	margin: 15px 15px 15px 0;
+	padding: 10px;
+	border: 1px solid #B5811C;
+}
+.samepost{}
+.samepost h2 {
+	padding: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1.5px solid #555555;
+}
+.samepost img {
+	width: 200px;
+	background: #fff;
+	padding: 5px;
+	border: 3px solid #9B999A;
+	float: left;
+	margin-right: 10px;
+}
+.samepost p {
+	font-size: 16px;
+	text-align: justify;
+	line-height: 22px;
+}
+.readmore{float:right;}
+.readmore a {
+	font-size: 16px;
+	color: #025E2A;
+	background: #fff none repeat scroll 0 0;
+	padding: 8px 5px;
+	display: block;
+	text-decoration: none;
+	margin-top: 10px;
+	border-radius: 3px;
+	border: 1px solid #555555;
+}
+.readmore a:hover{color:red; transition:1s;}
+.sidebar {
+	float: right;
+	width: 256px;
+	background: #FBF4E4;
+	margin: 15px 0px 15px 0;
+	padding: 10px;
+	border: 1px solid #B5811C;
+}
+.samesidebar{
+	
+}
+.samesidebar h2 {
+	background: #E4B04C;
+	padding: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+	border-bottom: 3px solid #B5811C;
+	color: #fff;
+}
+.samesidebar p {
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+.fotter{
+	height:90px;
+	background:#B5811C;	
+}
+.fotter p {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	padding-top: 30px;
+	color: #fff;
+}
+
+
+tutorial 10
